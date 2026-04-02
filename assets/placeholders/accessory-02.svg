@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+<rect width="1200" height="900" rx="34" fill="#F4F2EE"/>
+<rect x="30" y="30" width="1140" height="840" rx="28" fill="url(#g)" stroke="#DAD5CD"/>
+<path d="M200 690C287 560 369 520 458 558C526 587 573 667 653 654C763 636 756 513 875 490C962 473 1031 518 1100 610V810H100V750C135 741 168 722 200 690Z" fill="#D9D3CA" fill-opacity="0.65"/>
+<rect x="162" y="188" width="876" height="445" rx="18" fill="#FFFFFF" fill-opacity="0.38" stroke="#FFFFFF"/>
+<path d="M298 542H902" stroke="#B1AAA1" stroke-width="2" stroke-dasharray="10 10"/>
+<text x="600" y="420" text-anchor="middle" fill="#5C5A57" font-family="Georgia, serif" font-size="52">Заглушка изображения</text>
+<text x="600" y="488" text-anchor="middle" fill="#7A7772" font-family="Arial, sans-serif" font-size="34">Столы и скамейки</text>
+<text x="600" y="736" text-anchor="middle" fill="#8D8A84" font-family="Arial, sans-serif" font-size="24">Замените файл в assets/placeholders/</text>
+<defs>
+<linearGradient id="g" x1="108" y1="48" x2="1077" y2="859" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBFAF8"/>
+<stop offset="1" stop-color="#ECE8E1"/>
+</linearGradient>
+</defs>
+</svg>
